@@ -1,0 +1,2 @@
+CV_Black_White
+-DCATKIN_DEVEL_PREFIX=/home/gary/garypack/devel -DCMAKE_INSTALL_PREFIX=/home/gary/garypack/install -G Unix Makefiles

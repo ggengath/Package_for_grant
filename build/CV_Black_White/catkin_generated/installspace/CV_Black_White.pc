@@ -1,0 +1,8 @@
+prefix=/home/gary/garypack/install
+
+Name: CV_Black_White
+Description: Description of CV_Black_White
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

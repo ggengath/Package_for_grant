@@ -1,0 +1,14 @@
+<launch>
+  <node
+    pkg="CV_Black_White"
+    type="Garycam_pub.py"
+    name="Garycam_pub"
+    output="screen"
+  />
+  <node
+    pkg="CV_Black_White"
+    type="Garycam_sub.py"
+    name="Garycam_sub"
+    output="screen"
+  />
+</launch>
